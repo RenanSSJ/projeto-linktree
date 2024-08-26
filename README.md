@@ -1,8 +1,5 @@
-<h1 align="center"> Link Tree </h1>
+<h1 align="center"> Agregador de Links </h1>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
 <p align="center">
   <img src=".github/preview.png" width ="100%">
 </p>
